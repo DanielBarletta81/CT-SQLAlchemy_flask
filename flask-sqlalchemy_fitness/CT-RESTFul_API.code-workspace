@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../CT-RESTFul_API"
+		},
+		{
+			"path": "../../CT-Flask/flask_stage_venv"
+		}
+	],
+	"settings": {}
+}
